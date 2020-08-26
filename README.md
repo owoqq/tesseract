@@ -1,3 +1,3 @@
-- Please install Tesseract OCR from this link: http://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe
+- Please install Tesseract OCR from this link: http://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe or from any other source
 - You have to install tesseract-ocr into the same directory where app.exe is located.
 - If you get any errors it's probably caused because app.exe and tesseract-ocr folder is not in the same directory
